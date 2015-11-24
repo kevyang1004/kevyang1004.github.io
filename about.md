@@ -4,11 +4,17 @@ title: About
 permalink: /about/
 ---
 
-I'm a Korean student who likes to play instruments
+I like playing instruments
 
 ### Instruments that I like to play.
-A place to include any other types of information that you'd like to include about yourself.
+
+What I play
+
+* Drums
+* Guitars
+
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kevinyang@seoulchristian.org] this is my school email. It's the easiest way to communicate with me. You also can communicate with facebook.
